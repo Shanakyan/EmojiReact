@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Shanakyan/EmojiReact/static/css/main.d94a5938.css",
-    "main.js": "/Shanakyan/EmojiReact/static/js/main.4d3761cc.js",
-    "static/js/453.1796cc58.chunk.js": "/Shanakyan/EmojiReact/static/js/453.1796cc58.chunk.js",
-    "index.html": "/Shanakyan/EmojiReact/index.html",
-    "main.d94a5938.css.map": "/Shanakyan/EmojiReact/static/css/main.d94a5938.css.map",
-    "main.4d3761cc.js.map": "/Shanakyan/EmojiReact/static/js/main.4d3761cc.js.map",
-    "453.1796cc58.chunk.js.map": "/Shanakyan/EmojiReact/static/js/453.1796cc58.chunk.js.map"
+    "main.css": "/EmojiReact/static/css/main.d94a5938.css",
+    "main.js": "/EmojiReact/static/js/main.45eb9391.js",
+    "static/js/453.1796cc58.chunk.js": "/EmojiReact/static/js/453.1796cc58.chunk.js",
+    "index.html": "/EmojiReact/index.html",
+    "main.d94a5938.css.map": "/EmojiReact/static/css/main.d94a5938.css.map",
+    "main.45eb9391.js.map": "/EmojiReact/static/js/main.45eb9391.js.map",
+    "453.1796cc58.chunk.js.map": "/EmojiReact/static/js/453.1796cc58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d94a5938.css",
-    "static/js/main.4d3761cc.js"
+    "static/js/main.45eb9391.js"
   ]
 }
