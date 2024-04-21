@@ -1,0 +1,17 @@
+.footer {
+    background: #EDEEF3;
+}
+
+.line {
+    background: #CED4DA;
+    margin-bottom: 17px;
+}
+
+.footerContent {
+    color: #6C757D;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    font-family: Inter;
+}

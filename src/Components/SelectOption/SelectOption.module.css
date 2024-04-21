@@ -1,0 +1,22 @@
+.wrap {
+    display: flex;
+    align-items: center;
+
+}
+.selectName{
+
+    margin-right: 20px;
+    font-size: 16px;
+     font-size: 16px;
+     /* color: #6C757D; */
+}
+.selectOption{
+    width: 120px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 38px;
+    border: #DEE2E6 1px solid;
+    border-radius: 4px;
+    color: #6C757D;
+   
+}
