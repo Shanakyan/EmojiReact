@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shanakyan/EmojiReact.git/static/css/main.d94a5938.css",
+    "main.js": "/Shanakyan/EmojiReact.git/static/js/main.5cb00a9d.js",
+    "static/js/453.1796cc58.chunk.js": "/Shanakyan/EmojiReact.git/static/js/453.1796cc58.chunk.js",
+    "index.html": "/Shanakyan/EmojiReact.git/index.html",
+    "main.d94a5938.css.map": "/Shanakyan/EmojiReact.git/static/css/main.d94a5938.css.map",
+    "main.5cb00a9d.js.map": "/Shanakyan/EmojiReact.git/static/js/main.5cb00a9d.js.map",
+    "453.1796cc58.chunk.js.map": "/Shanakyan/EmojiReact.git/static/js/453.1796cc58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d94a5938.css",
+    "static/js/main.5cb00a9d.js"
+  ]
+}
